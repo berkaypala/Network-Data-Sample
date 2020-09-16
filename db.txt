@@ -17,8 +17,6 @@ traffic,home=ggsn,target=sgsn capacity=4000 1599809820
 traffic,home=ggsn,target=sgsn capacity=4000 1599809880
 traffic,home=ggsn,target=sgsn capacity=4000 1599809940
 traffic,home=ggsn,target=sgsn capacity=4000 1566000000
-
-
 traffic,home=ggsn,target=sgsn value=4320 1599809400
 traffic,home=ggsn,target=sgsn value=4500 1599809460
 traffic,home=ggsn,target=sgsn value=4700 1599809520
