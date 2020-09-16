@@ -1,4 +1,10 @@
+# DDL
+
 CREATE DATABASE db_deneme
+
+# DML
+
+# CONTEXT-DATABASE: db_deneme
 
 traffic,home=ggsn,target=sgsn capacity=4000 1599809400
 traffic,home=ggsn,target=sgsn capacity=4000 1599809460
